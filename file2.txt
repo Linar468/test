@@ -1,3 +1,5 @@
 GoodBye
 line from user2
 another line user2
+
+critical bag fixed
