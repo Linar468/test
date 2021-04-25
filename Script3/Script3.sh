@@ -5,7 +5,7 @@ elif [ "$1" == "official" ]; then
         echo "Zdravstvuite, Linar"
 else echo "Hello"
 
-x=$2
+read -p "Enter something" x
 echo "Starting case selection..."
 case $x in
         1) echo "This is 1";;
